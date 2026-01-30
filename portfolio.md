@@ -16,7 +16,7 @@ Specialized in auditing Move-based protocols across DeFi, orderbooks, lending, a
 
 | Protocol | Ecosystem | Description | Audit Firm | Findings | Report |
 |----------|-----------|-------------|------------|----------|--------|
-| **Aave** | Aptos Move | Flagship lending protocol on Aptos | Cantina | 1 H, 1 M | [📄](https://cantina.xyz/competitions/ad445d42-9d39-4bcf-becb-0c6c8689b767) |
+| **Aave** | Aptos Move | Flagship lending protocol on Aptos | Cantina | 1 H, 1 M | [📄](https://gist.github.com/pantheraudits/e56428bdccaf0747de519be47010925c) |
 | **Deepbook** | Sui Move | Decentralized CLOB with margin/leverage | Three Sigma | Private | Private |
 | **Elixir** | Move | Multi-chain staking vault | Pashov | 5 M, 10 L | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Elixir-security-review_2025-08-17.pdf) |
 | **Abyss** | Sui Move | Yield aggregator | Three Sigma | Private | Private |
