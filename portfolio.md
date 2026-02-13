@@ -92,6 +92,7 @@ Specialized in auditing Move-based protocols across DeFi, orderbooks, lending, a
 | **Noodles** | Solidity | Bonding Curves | 2 M, 5 L | 11 - 14 Mar | Pashov |
 | **Biconomy** | Solidity | Account Abstraction | 1 M | 16 - 18 Oct | Pashov |
 | **Yei Finance** | Solidity | Aave Fork | Private | 9 - 10 Dec | Pashov |
+| **Aspan** | Solidity | Yeild | Private | 9 Feb - 13 Feb | Adevar Labs |
 
 ---
 
